@@ -1,0 +1,14 @@
+F:\aurorarepo\demoapi\bin\Debug\netcoreapp2.1\demoapi.deps.json
+F:\aurorarepo\demoapi\bin\Debug\netcoreapp2.1\demoapi.runtimeconfig.json
+F:\aurorarepo\demoapi\bin\Debug\netcoreapp2.1\demoapi.runtimeconfig.dev.json
+F:\aurorarepo\demoapi\bin\Debug\netcoreapp2.1\demoapi.dll
+F:\aurorarepo\demoapi\bin\Debug\netcoreapp2.1\demoapi.pdb
+F:\aurorarepo\demoapi\obj\Debug\netcoreapp2.1\demoapi.csprojAssemblyReference.cache
+F:\aurorarepo\demoapi\obj\Debug\netcoreapp2.1\demoapi.csproj.CoreCompileInputs.cache
+F:\aurorarepo\demoapi\obj\Debug\netcoreapp2.1\demoapi.RazorAssemblyInfo.cache
+F:\aurorarepo\demoapi\obj\Debug\netcoreapp2.1\demoapi.RazorAssemblyInfo.cs
+F:\aurorarepo\demoapi\obj\Debug\netcoreapp2.1\demoapi.AssemblyInfoInputs.cache
+F:\aurorarepo\demoapi\obj\Debug\netcoreapp2.1\demoapi.AssemblyInfo.cs
+F:\aurorarepo\demoapi\obj\Debug\netcoreapp2.1\demoapi.RazorTargetAssemblyInfo.cache
+F:\aurorarepo\demoapi\obj\Debug\netcoreapp2.1\demoapi.dll
+F:\aurorarepo\demoapi\obj\Debug\netcoreapp2.1\demoapi.pdb
